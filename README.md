@@ -17,6 +17,9 @@ Alright, the goal is simple: one big repo with all of our solutions.
 ### JavaScript
 - [theking465](https://github.com/theking465/aoc-2020)
 
+### Kotlin
+- [Kroppeb](https://github.com/Kroppeb/AdventOfCodeSolutions)
+
 ### MATLAB
 - [ruben-vl](https://github.com/ruben-vl/aoc-2020)
 
