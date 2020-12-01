@@ -8,6 +8,7 @@ Alright, the goal is simple: one big repo with all of our solutions.
 - [elecprog](https://github.com/elecprog/aoc)
 
 ### C++
+- [FelixHuyghe](https://github.com/FelixHuyghe/AdventOfCode2020)
 - [NotAPenguin0](https://github.com/NotAPenguin0/aoc2020)
 
 ### Haskell
