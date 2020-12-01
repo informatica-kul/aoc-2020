@@ -4,6 +4,9 @@ Alright, the goal is simple: one big repo with all of our solutions.
 
 ## Programming Languages
 
+### Haskell
+- [mrMoonpenguin](https://github.com/mrMoonpenguin/AoC2020)
+
 ### JavaScript
 - [theking465](https://github.com/theking465/aoc-2020)
 
