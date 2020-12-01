@@ -17,6 +17,9 @@ Alright, the goal is simple: one big repo with all of our solutions.
 ### MATLAB
 - [ruben-vl](https://github.com/ruben-vl/aoc-2020)
 
+### Python
+- [WardGr](https://github.com/WardGr/aoc-2020)
+
 ### Rust
 - [di-wu](https://github.com/cXVpbnQ/aoc-rust)
 - [ToxicMushroom](https://github.com/ToxicMushroom/aoc-2020)
