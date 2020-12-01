@@ -8,6 +8,7 @@ Alright, the goal is simple: one big repo with all of our solutions.
 - [NotAPenguin0](https://github.com/NotAPenguin0/aoc2020)
 
 ### Haskell
+- [benfidlers](https://github.com/benfidlers/2020_AoC)
 - [mrMoonpenguin](https://github.com/mrMoonpenguin/AoC2020)
 
 ### JavaScript
