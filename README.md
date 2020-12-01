@@ -18,4 +18,5 @@ Alright, the goal is simple: one big repo with all of our solutions.
 
 ### Rust
 - [di-wu](https://github.com/cXVpbnQ/aoc-rust)
-- [wannestas](https://github.com/wannestas/aoc-2020 )
+- [ToxicMushroom](https://github.com/ToxicMushroom/aoc-2020)
+- [wannestas](https://github.com/wannestas/aoc-2020)
