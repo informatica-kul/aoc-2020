@@ -6,6 +6,7 @@ Alright, the goal is simple: one big repo with all of our solutions.
 
 ### ?
 - [elecprog](https://github.com/elecprog/aoc)
+- [ruben-vl](https://github.com/ruben-vl/aoc-2020)
 
 ### C++
 - [FelixHuyghe](https://github.com/FelixHuyghe/AdventOfCode2020)
@@ -20,9 +21,6 @@ Alright, the goal is simple: one big repo with all of our solutions.
 
 ### Kotlin
 - [Kroppeb](https://github.com/Kroppeb/AdventOfCodeSolutions)
-
-### MATLAB
-- [ruben-vl](https://github.com/ruben-vl/aoc-2020)
 
 ### Python
 - [WardGr](https://github.com/WardGr/aoc-2020)
