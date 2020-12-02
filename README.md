@@ -25,6 +25,9 @@ Alright, the goal is simple: one big repo with all of our solutions.
 ### Lua
 - [arnomaris](https://github.com/arnomaris/AOC2020)
 
+### PHP
+- [Principis](https://git.principis.be/Principis/aoc)
+
 ### Python
 - [WardGr](https://github.com/WardGr/aoc-2020)
 
