@@ -22,6 +22,9 @@ Alright, the goal is simple: one big repo with all of our solutions.
 ### Kotlin
 - [Kroppeb](https://github.com/Kroppeb/AdventOfCodeSolutions)
 
+### Lua
+- [arnomaris](https://github.com/arnomaris/AOC2020)
+
 ### Python
 - [WardGr](https://github.com/WardGr/aoc-2020)
 
