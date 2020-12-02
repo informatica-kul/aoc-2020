@@ -29,6 +29,7 @@ Alright, the goal is simple: one big repo with all of our solutions.
 - [Principis](https://git.principis.be/Principis/aoc)
 
 ### Python
+- [KevinVde-dev](https://github.com/KevinVde-dev/aoc-2020)
 - [WardGr](https://github.com/WardGr/aoc-2020)
 
 ### Rust
