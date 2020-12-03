@@ -36,3 +36,4 @@ Alright, the goal is simple: one big repo with all of our solutions.
 - [di-wu](https://github.com/cXVpbnQ/aoc-rust)
 - [ToxicMushroom](https://github.com/ToxicMushroom/aoc-2020)
 - [wannestas](https://github.com/wannestas/aoc-2020)
+- [zeroeightysix](https://github.com/zeroeightysix/aoc2020)
