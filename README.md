@@ -15,6 +15,7 @@ Alright, the goal is simple: one big repo with all of our solutions.
 ### Haskell
 - [benfidlers](https://github.com/benfidlers/2020_AoC)
 - [mrMoonpenguin](https://github.com/mrMoonpenguin/AoC2020)
+- [operand](https://gitlab.ulyssis.org/operand/advent-of-code-2020)
 
 ### JavaScript
 - [theking465](https://github.com/theking465/aoc-2020)
