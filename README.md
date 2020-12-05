@@ -37,7 +37,7 @@ Alright, the goal is simple: one big repo with all of our solutions.
 - [WardGr](https://github.com/WardGr/aoc-2020)
 
 ### Rust
-- [di-wu](https://github.com/cXVpbnQ/aoc-rust)
+- [di-wu](https://github.com/di-wu/aoc-rust)
 - [ToxicMushroom](https://github.com/ToxicMushroom/aoc-2020)
 - [wannestas](https://github.com/wannestas/aoc-2020)
 - [zeroeightysix](https://github.com/zeroeightysix/aoc2020)
