@@ -12,6 +12,9 @@ Alright, the goal is simple: one big repo with all of our solutions.
 - [FelixHuyghe](https://github.com/FelixHuyghe/AdventOfCode2020)
 - [NotAPenguin0](https://github.com/NotAPenguin0/aoc2020)
 
+### DRAMA :two_hearts:
+- [TIboStans](https://github.com/TIboStans/AoC)
+
 ### Haskell
 - [benfidlers](https://github.com/benfidlers/2020_AoC)
 - [mrMoonpenguin](https://github.com/mrMoonpenguin/AoC2020)
